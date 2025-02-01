@@ -1,0 +1,23 @@
+{
+  "instagram": {
+    "username": "INSTAGRAM_KULLANICI_ADI",
+    "password": "INSTAGRAM_SIFRE"
+  },
+  "youtube": {
+    "client_id": "YOUTUBE_CLIENT_ID",
+    "client_secret": "YOUTUBE_CLIENT_SECRET",
+    "redirect_uri": "http://localhost",
+    "refresh_token": "",
+    "upload_settings": {
+      "description_template": "#shorts #shortsvideo #shortvideo #viral #trending",
+      "tags": ["shorts", "shortsvideo", "short"],
+      "category_id": "24"
+    }
+  },
+  "bot": {
+    "allowedUsers": [],
+    "watermark": "",
+    "token": "BOT_TOKEN"
+  }
+}
+
